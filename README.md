@@ -53,14 +53,11 @@ This project is a complete Hospital Management System built using **Microsoft Ac
 ## 📥 Export Options
 - Reports exported to PDF
 - Project ready for real-world extension
----
-
+- 
 ## 📎 Project Demo
 You can open the `.accdb` file to explore the full database.
 
-## 🔗 GitHub Link
-👉 [(https://github.com/yourusername/hospital-management-access)](https://github.com/maileganesh/hospital-management-access)]
+## 🔗 GitHub Link  
+👉 [https://github.com/maileganesh/hospital-management-access](https://github.com/maileganesh/hospital-management-access)
 
----
 
-Feel free to fork, clone, or customize for your needs.
