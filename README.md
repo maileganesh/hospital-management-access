@@ -59,7 +59,7 @@ This project is a complete Hospital Management System built using **Microsoft Ac
 You can open the `.accdb` file to explore the full database.
 
 ## 🔗 GitHub Link
-👉 [GitHub Repo Here](https://github.com/yourusername/hospital-management-access)
+👉 [[GitHub Repo Here](https://github.com/yourusername/hospital-management-access)](https://github.com/maileganesh/hospital-management-access)
 
 ---
 
